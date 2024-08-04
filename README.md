@@ -56,3 +56,9 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahfianugerah" alt="GitHub Streak" height="150"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahfianugerah&layout=compact" alt="Most Used Languages" height=150/>
 </div>
+
+
+
+---
+
+© 2024 Naufal Rahfi Anugerah
