@@ -17,6 +17,10 @@
   <h3>Hello Everyone! 👋 I'm Naufal Rahfi Anugerah</h3>
 </div>
 
+<p align=justify>
+A versatile and highly adaptable software engineer with a rapid learning curve, specializing in AI, Machine Learning, Cloud Computing, and Website Development. With a strong foundation in cutting-edge technologies, I am passionate about leveraging my expertise to design and implement innovative, scalable solutions.
+</p>
+
 <!--
 **rahfianugerah/rahfianugerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
