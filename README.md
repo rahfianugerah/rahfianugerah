@@ -4,7 +4,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/rahfianugerah/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/rahfianugerah"><img src="https://img.shields.io/badge/Github-%23121011.svg?&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/rahfx@proton.me-8B89CC?&logo=protonmail&logoColor=white">
 </div>
 
 <div align="center">
