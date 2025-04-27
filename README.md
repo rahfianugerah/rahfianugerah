@@ -17,7 +17,7 @@
 </div>
 
 <p align=justify>
-A versatile and highly adaptable <a href="">#SoftwareEngineer</a> with a rapid learning curve, specializing in AI, Machine Learning, Cloud Computing, and Website Development. With a strong foundation in cutting-edge technologies, I am passionate about leveraging my expertise to design and implement innovative, scalable solutions.
+A versatile and highly adaptable <a href="">#Software/AI Engineer</a> with a rapid learning curve, specializing in AI, Machine Learning, Cloud Computing, and Website Development. With a strong foundation in cutting-edge technologies, I am passionate about leveraging my expertise to design and implement innovative, scalable solutions.
 </p>
 
 <!--
