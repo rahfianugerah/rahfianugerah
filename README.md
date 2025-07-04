@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2liZWlsZjAxZHQwYmloMXkxZXB0OHl5aTZsenZycnUwdzVpendrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SgPk5T5fk5y1p5ZIqR/giphy.gif" height=100 />
-  <img src="https://media.giphy.com/media/7UeCUvFZRqoZ16ZysE/giphy.gif" height=100 />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2liZWlsZjAxZHQwYmloMXkxZXB0OHl5aTZsenZycnUwdzVpendrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SgPk5T5fk5y1p5ZIqR/giphy.gif" height=100 />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2liZWlsZjAxZHQwYmloMXkxZXB0OHl5aTZsenZycnUwdzVpendrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SgPk5T5fk5y1p5ZIqR/giphy.gif" width=100 height=100 />
+  <img src="https://media.giphy.com/media/7UeCUvFZRqoZ16ZysE/giphy.gif" width=100 height=100 />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2liZWlsZjAxZHQwYmloMXkxZXB0OHl5aTZsenZycnUwdzVpendrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SgPk5T5fk5y1p5ZIqR/giphy.gif" width=100 height=100 />
 </div>
 
 <div align="center">
