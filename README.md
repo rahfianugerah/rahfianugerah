@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rahfianugerah&label=Profile+Views&color=brightgreen)
-![Website](https://img.shields.io/badge/Personal_Website-Click_here-brightgreen)
+[![Website](https://img.shields.io/badge/Portfolio_Website-Click_here-brightgreen)](https://rahfi.pro)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rahfianugerah/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
